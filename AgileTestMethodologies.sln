@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TDD", "TDD", "{AFD4454B-CB0B-415E-BA27-839D77A7384C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_Test", "TDD\TDD_Test\TDD_Test.csproj", "{BF2D0A73-AE6D-48B9-B902-EA51F03FD86A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_Code", "TDD\TDD_Code\TDD_Code.csproj", "{96933005-FCD3-4060-8DD2-979D646FDD14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF2D0A73-AE6D-48B9-B902-EA51F03FD86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2D0A73-AE6D-48B9-B902-EA51F03FD86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2D0A73-AE6D-48B9-B902-EA51F03FD86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2D0A73-AE6D-48B9-B902-EA51F03FD86A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96933005-FCD3-4060-8DD2-979D646FDD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96933005-FCD3-4060-8DD2-979D646FDD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96933005-FCD3-4060-8DD2-979D646FDD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96933005-FCD3-4060-8DD2-979D646FDD14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF2D0A73-AE6D-48B9-B902-EA51F03FD86A} = {AFD4454B-CB0B-415E-BA27-839D77A7384C}
+		{96933005-FCD3-4060-8DD2-979D646FDD14} = {AFD4454B-CB0B-415E-BA27-839D77A7384C}
+	EndGlobalSection
+EndGlobal
